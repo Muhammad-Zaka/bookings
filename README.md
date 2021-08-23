@@ -1,1 +1,1 @@
-# bookirngs
+# bookings
